@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/www/react-native/onepass/app/libs/android-core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ee2a9155907c0a0398caa2eeceafdafd79ee8d8">
+        <dex dex="/www/react-native/onepass/app/build/intermediates/pre-dexed/debug/android-core-3.1.1-SNAPSHOT_2203cf247686a54247e6b4f734e005896a1b4265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/react-native/onepass/app/libs/baidumapapi_v3_1_1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fd80439473ff6e0e9ae45f95af48302271e1e45e">
+        <dex dex="/www/react-native/onepass/app/build/intermediates/pre-dexed/debug/baidumapapi_v3_1_1_64ec6f7c6e8ab31fd669aa0eeb3115a61efb1786.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/react-native/onepass/app/libs/upnplib-mobile.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a9bdf7dbefddca80ea2569dfbde1212a2e39e81">
+        <dex dex="/www/react-native/onepass/app/build/intermediates/pre-dexed/debug/upnplib-mobile_7f5e09652d8e715ea56dddbeacc3b8535398575d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/react-native/onepass/app/libs/locSDK_4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b93335a2753c93f8b8f56741615cb81ea72437">
+        <dex dex="/www/react-native/onepass/app/build/intermediates/pre-dexed/debug/locSDK_4.2_1afb553159ea0109698ee4870cb764bfb8313b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/www/react-native/onepass/app/libs/core-3.1.1-SNAPSHOT.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5589d0e71fbbd91262d1aa6c8e153ff211ec9fe0">
+        <dex dex="/www/react-native/onepass/app/build/intermediates/pre-dexed/debug/core-3.1.1-SNAPSHOT_5ff4019527de31e09eb5a427a314802d634eb523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ChitSwe/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/www/react-native/onepass/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_a88346a4a76301bb3d05db651aac6a3afdc53412.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/www/react-native/onepass/app/build/intermediates/pre-dexed/debug/classes_5a392ccc8010ecc40ca772aa45985b91ea610305.jar" />
+    </item>
+
+</items>

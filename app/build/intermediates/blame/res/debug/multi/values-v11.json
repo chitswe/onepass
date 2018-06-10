@@ -1,0 +1,578 @@
+[
+    {
+        "outputFile": "/www/react-native/onepass/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/www/react-native/onepass/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 112,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 119,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 94,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 101,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 116,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 123,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 124,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 131,
+                        "endOffset": 1807
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Compatible\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Compatible\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\xxx\\.android\\build-cache\\5b6662a18e676efd90b70f7735d7439132b44b9b\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\xxx\\.android\\build-cache\\5b6662a18e676efd90b70f7735d7439132b44b9b\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 112,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\xxx\\.android\\build-cache\\5b6662a18e676efd90b70f7735d7439132b44b9b\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 119,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 94,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\xxx\\.android\\build-cache\\5b6662a18e676efd90b70f7735d7439132b44b9b\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 101,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 116,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\xxx\\.android\\build-cache\\5b6662a18e676efd90b70f7735d7439132b44b9b\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 123,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 124,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\xxx\\.android\\build-cache\\5b6662a18e676efd90b70f7735d7439132b44b9b\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 131,
+                        "endOffset": 1807
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 112,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 119,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 94,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 101,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 116,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 123,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 124,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 131,
+                        "endOffset": 1807
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Android studio FP07 FP05 所有\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Android studio FP07 FP05 所有\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 693
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\Administrator\\.android\\build-cache\\0d882ceda9ca6c39da1fc5c9f72dcbadbecd3a2e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 698,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\Administrator\\.android\\build-cache\\0d882ceda9ca6c39da1fc5c9f72dcbadbecd3a2e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 112,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\Administrator\\.android\\build-cache\\0d882ceda9ca6c39da1fc5c9f72dcbadbecd3a2e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 119,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 94,
+                    "endOffset": 1422
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\Administrator\\.android\\build-cache\\0d882ceda9ca6c39da1fc5c9f72dcbadbecd3a2e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 101,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1427,
+                    "endColumn": 116,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\Administrator\\.android\\build-cache\\0d882ceda9ca6c39da1fc5c9f72dcbadbecd3a2e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 123,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endColumn": 124,
+                    "endOffset": 1664
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\Administrator\\.android\\build-cache\\0d882ceda9ca6c39da1fc5c9f72dcbadbecd3a2e\\output\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 131,
+                        "endOffset": 1807
+                    }
+                }
+            }
+        ]
+    }
+]

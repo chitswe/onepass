@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "/www/react-native/onepass/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-w360dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 54,
+                        "endOffset": 226
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Android studio FP07 FP05 所有\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\Administrator\\.android\\build-cache\\0d882ceda9ca6c39da1fc5c9f72dcbadbecd3a2e\\output\\res\\values-w360dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 54,
+                        "endOffset": 226
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Compatible\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w360dp-v13\\values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/C:\\Users\\xxx\\.android\\build-cache\\5b6662a18e676efd90b70f7735d7439132b44b9b\\output\\res\\values-w360dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 54,
+                        "endOffset": 226
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/ChitSwe/.android/build-cache/9b71a4c74ba80b09dad715d89caef312f5a61813/output/res/values-w360dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 54,
+                        "endOffset": 226
+                    }
+                }
+            }
+        ]
+    }
+]

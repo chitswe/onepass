@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Android studio FP07 FP05 所有\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Android studio FP07 FP05 所有\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Compatible\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/F:\\OnePass-Compatible\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/onepass/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/www/react-native/onepass/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/www/react-native/fp007/FP07 SDK and guide/FP07 SDK and guide/All Latest SDK --OnePass-Android studio FP07 FP05/OnePass-Android studio FP07 FP05 所有/OnePass-Android studio FP07 FP05 所有/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 57,
+                        "endOffset": 363
+                    }
+                }
+            }
+        ]
+    }
+]
